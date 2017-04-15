@@ -33,8 +33,7 @@ $c=random(1,10,1)*random(-1,1,2);
 BEGIN_TEXT
 
 $PAR
-
-Use the table below to estimate the value of \(h'(.5)\), where \(h(x)=f(g(x))\) to the nearest tenth. To estimate the appropriate derivatives, use the average of the two second slopes near the point in question (if approximating a derivative at \(x=.1\), do the secant slopes on \( [0,.1] \) and \( [.1,.2]\), and then average them). $PAR
+Use four rectangles to find an estimate of each type for the area under the given graph of ff from x=1x=1 to x=9. #PAR
 \[
 \begin{array}{|c|c|c|}
 \hline
